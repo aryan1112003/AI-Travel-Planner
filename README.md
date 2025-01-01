@@ -55,6 +55,10 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 Created by [Aryan Acharya](https://github.com/aryan1112003)
 
+
+![image](https://github.com/user-attachments/assets/497ae027-9b66-4394-8b8c-92309c23e05b)
+
+
 ## License
 
 © 2024 AI Travel Planner. All rights reserved.
